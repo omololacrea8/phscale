@@ -1,0 +1,82 @@
+
+.container {
+    border: 10px solid #babab6; 
+    background-color: #babab6; 
+}
+h1 {
+ color: rgb(180, 174, 247);
+ font-family: Arial; San Serif; 
+ padding: 12px;
+ background-color: rgb(221,221,218)
+}
+
+div {
+  background-color: #babab6;
+}
+
+p {
+  color: #fff;
+  padding: 5px;
+  margin: 0;
+  font-family: Arial; San Serif;    
+  font-size: 10px;
+}
+
+p.first {
+ background-color: rgb(49, 34, 234);
+}
+
+p.second {
+ background-color: rgb(79, 66, 236);        
+}
+
+p.third {
+ background-color: rgb(105, 95, 239); ;        
+}
+
+p.fourth {
+ background-color: rgb(123,114, 241); ;        
+}
+
+p.fifth {
+ background-color: rgb(150, 142, 244); ;        
+}
+
+p.six {
+ background-color: rgb(172, 166, 247);        
+}
+
+p.seven {
+ background-color: rgb(196, 191, 249); ;        
+}
+
+p.eight {
+ background-color: #23ab7e;     
+}
+
+p.nine {
+ background-color: #e7abc1;        
+}
+
+p.ten {
+ background-color: #e799b5;        
+}
+p.eleven {
+ background-color: #e587a7;
+}
+
+p.twelve {
+ background-color: #e2749a;    
+}
+
+p.thirteen {
+ background-color: #e0658a;      
+}
+
+p.fourteen {
+ background-color: #db5580;     
+}
+
+p.fifthteen {
+ background-color: #da3d75;        
+}
